@@ -1,0 +1,4 @@
+Paper Book;isik dogudan gelir;cemil meric;novel;234567; 354
+Audio Book;binbir gece masallari;anonymous;tales;mehmet; 67
+Paper Book;oluler evinden anilar;dotoyevski;novel;123456; 250
+E-Book;spiderman vs superman;stan lee;comic;12345; 67
